@@ -1,26 +1,15 @@
-# macOS system files
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# VS Code settings
 .vscode/
 *.code-workspace
-
-# LÖVE build artifacts
 *.love
 *.exe
 *.app
 *.dll
 *.so
 *.out
-
-# Logs
 *.log
-
-# LuaRocks
 *.rock
 *.rockspec
-
-# Other editor/IDE files
 .idea/
